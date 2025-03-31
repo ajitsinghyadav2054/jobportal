@@ -1,4 +1,4 @@
-const server="http://localhost:5011"
+const server="https://jobportal-bxv7.onrender.com"
 
 export const USER_API_ENDPOINT = `${server}/api/user`;
 export const JOB_API_ENDPOINT = `${server}/api/job`;
